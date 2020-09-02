@@ -1,2 +1,2 @@
 # wlr-counter
-A twitter bot to tweet every day that Playboy Carti refuses to release whole lotta red 
+A twitter bot to tweet every day that Playboi Carti refuses to release whole lotta red 
