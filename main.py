@@ -25,7 +25,7 @@ def build_string(years, months, days):
         else:
             msg += " and " + str(months) + " months"
 
-    msg += " since the project has been announced."
+    msg += " since the album has been announced."
     return msg
 years = diff.years
 months = diff.months
