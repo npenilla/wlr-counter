@@ -14,7 +14,10 @@ def compress_img(file_name):
     image.save(file_name, quality = 20, optimize = True)
     return file_name
 
-file_name = "carti-bot-photos/" + random.choice(os.listdir("carti-bot-photos"))
+photo_directory = '/home/pi/wlr-counter/carti-bot-photos'
+file_name = random.choice(os.listdir(photo_directory))
+file_name = os.path.join(photo_directory, file_name)
+
 if(os.path.getsize(file_name) >= 3072000):
     file_name = compress_img(file_name)
 
