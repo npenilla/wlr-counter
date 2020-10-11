@@ -51,6 +51,6 @@ def build_string(years, months, days):
 years = diff.years
 months = diff.months
 days = diff.days
-msg = build_string(years, months, days)   
+msg = build_string(years, months, days)
 api.update_with_media(file_name, msg)
-
+os.remove(file_name)
