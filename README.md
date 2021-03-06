@@ -1,4 +1,4 @@
-#*This bot is depreciated due to Playboi Carti's December 25 release of Whole Lotta Red
+*This bot is depreciated due to Playboi Carti's December 25 release of Whole Lotta Red*
 
 # Carti Bot
 
