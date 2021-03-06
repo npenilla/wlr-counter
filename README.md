@@ -2,7 +2,7 @@
 
 # Carti Bot
 
-Carti Bot (@wholelottacap__) is a bot to tweet the amount of time it's been since artist PlayBoi Carti (aka Sir Cartier Cash Carti) has announced his third album 'Whole Lotta Red'. 
+Carti Bot (@wholelottacap__) is a bot to tweet the amount of time it's been since artist PlayBoi (Cash) Carti has announced his third album 'Whole Lotta Red'. 
 
 ## Specs
 
